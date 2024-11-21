@@ -8,6 +8,6 @@ prazo = int(input("Em quantos anos você gostaria de financiar? "))
 parcela = float(valor)/float(prazo)/12
 
 if parcela >float(salario)*0.3:
-    print("Sentimos muito, mas seu financiamento não foi aprovado.")
+    print("Sentimos muito mas seu financiamento não foi aprovado.")
 else:
-    print("O valor da sua prestação será de {:.2f}".format(parcela))
+    print("APROVADO! O valor da sua prestação será de {:.2f}".format(parcela))
