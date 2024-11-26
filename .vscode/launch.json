@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Dropbox/CODE/git/PersonalProjects/CS50",
-      "program": "d:/Dropbox/CODE/git/PersonalProjects/CS50/build/Debug/outDebug",
+      "cwd": "c:/Users/Luan/Dropbox/CODE/git/PersonalProjects/cs50_intro/c",
+      "program": "c:/Users/Luan/Dropbox/CODE/git/PersonalProjects/cs50_intro/c/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
